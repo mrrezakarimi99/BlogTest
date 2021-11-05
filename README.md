@@ -74,6 +74,8 @@ git clone https://github.com/mrrezakarimi99/BlogTest
     php artisan migrate --seed
     ```
 
+4. postman collection  https://documenter.getpostman.com/view/12107105/UVC2HpRy 
+
 ## Help us
 
 Any thought, feedback or (hopefully not!)
