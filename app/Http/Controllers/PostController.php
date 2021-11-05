@@ -84,7 +84,7 @@ class PostController extends Controller
         $this->authorize('delete', $post);
         $post->delete();
         return  response()->json([
-            'message' => 'model not found'
+            'message' => 'delete was successfully'
         ], Response::HTTP_OK);
 
     }
